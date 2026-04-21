@@ -1,0 +1,299 @@
+{
+  "source_topic": "Elizabeth I",
+  "total_chunks_processed": 3,
+  "total_entities": 26,
+  "total_relationships": 19,
+  "entities": [
+    {
+      "text": "Elizabeth I",
+      "type": "PERSON",
+      "source_chunk": 0,
+      "source_text_preview": "Elizabeth I (7 September 1533 \u2013 24 March 1603) was Queen of England and Ireland from 17 November 1558 until her death in 1603. She was the last and longest reigning monarch of the House of Tudor. Her "
+    },
+    {
+      "text": "England",
+      "type": "PLACE",
+      "source_chunk": 0,
+      "source_text_preview": "Elizabeth I (7 September 1533 \u2013 24 March 1603) was Queen of England and Ireland from 17 November 1558 until her death in 1603. She was the last and longest reigning monarch of the House of Tudor. Her "
+    },
+    {
+      "text": "Ireland",
+      "type": "PLACE",
+      "source_chunk": 0,
+      "source_text_preview": "Elizabeth I (7 September 1533 \u2013 24 March 1603) was Queen of England and Ireland from 17 November 1558 until her death in 1603. She was the last and longest reigning monarch of the House of Tudor. Her "
+    },
+    {
+      "text": "7 September 1533",
+      "type": "DATE",
+      "source_chunk": 0,
+      "source_text_preview": "Elizabeth I (7 September 1533 \u2013 24 March 1603) was Queen of England and Ireland from 17 November 1558 until her death in 1603. She was the last and longest reigning monarch of the House of Tudor. Her "
+    },
+    {
+      "text": "24 March 1603",
+      "type": "DATE",
+      "source_chunk": 0,
+      "source_text_preview": "Elizabeth I (7 September 1533 \u2013 24 March 1603) was Queen of England and Ireland from 17 November 1558 until her death in 1603. She was the last and longest reigning monarch of the House of Tudor. Her "
+    },
+    {
+      "text": "17 November 1558",
+      "type": "DATE",
+      "source_chunk": 0,
+      "source_text_preview": "Elizabeth I (7 September 1533 \u2013 24 March 1603) was Queen of England and Ireland from 17 November 1558 until her death in 1603. She was the last and longest reigning monarch of the House of Tudor. Her "
+    },
+    {
+      "text": "1603",
+      "type": "DATE",
+      "source_chunk": 0,
+      "source_text_preview": "Elizabeth I (7 September 1533 \u2013 24 March 1603) was Queen of England and Ireland from 17 November 1558 until her death in 1603. She was the last and longest reigning monarch of the House of Tudor. Her "
+    },
+    {
+      "text": "House of Tudor",
+      "type": "ORGANIZATION",
+      "source_chunk": 0,
+      "source_text_preview": "Elizabeth I (7 September 1533 \u2013 24 March 1603) was Queen of England and Ireland from 17 November 1558 until her death in 1603. She was the last and longest reigning monarch of the House of Tudor. Her "
+    },
+    {
+      "text": "Elizabethan era",
+      "type": "EVENT",
+      "source_chunk": 0,
+      "source_text_preview": "Elizabeth I (7 September 1533 \u2013 24 March 1603) was Queen of England and Ireland from 17 November 1558 until her death in 1603. She was the last and longest reigning monarch of the House of Tudor. Her "
+    },
+    {
+      "text": "Elizabeth",
+      "type": "PERSON",
+      "source_chunk": 1,
+      "source_text_preview": "Elizabeth was the only surviving child of Henry VIII and his second wife, Anne Boleyn. When Elizabeth was two years old, her parents' marriage was annulled, her mother was executed, and Elizabeth was "
+    },
+    {
+      "text": "Henry VIII",
+      "type": "PERSON",
+      "source_chunk": 1,
+      "source_text_preview": "Elizabeth was the only surviving child of Henry VIII and his second wife, Anne Boleyn. When Elizabeth was two years old, her parents' marriage was annulled, her mother was executed, and Elizabeth was "
+    },
+    {
+      "text": "Anne Boleyn",
+      "type": "PERSON",
+      "source_chunk": 1,
+      "source_text_preview": "Elizabeth was the only surviving child of Henry VIII and his second wife, Anne Boleyn. When Elizabeth was two years old, her parents' marriage was annulled, her mother was executed, and Elizabeth was "
+    },
+    {
+      "text": "Edward VI",
+      "type": "PERSON",
+      "source_chunk": 1,
+      "source_text_preview": "Elizabeth was the only surviving child of Henry VIII and his second wife, Anne Boleyn. When Elizabeth was two years old, her parents' marriage was annulled, her mother was executed, and Elizabeth was "
+    },
+    {
+      "text": "Lady Jane Grey",
+      "type": "PERSON",
+      "source_chunk": 1,
+      "source_text_preview": "Elizabeth was the only surviving child of Henry VIII and his second wife, Anne Boleyn. When Elizabeth was two years old, her parents' marriage was annulled, her mother was executed, and Elizabeth was "
+    },
+    {
+      "text": "Mary",
+      "type": "PERSON",
+      "source_chunk": 1,
+      "source_text_preview": "Elizabeth was the only surviving child of Henry VIII and his second wife, Anne Boleyn. When Elizabeth was two years old, her parents' marriage was annulled, her mother was executed, and Elizabeth was "
+    },
+    {
+      "text": "1547",
+      "type": "DATE",
+      "source_chunk": 1,
+      "source_text_preview": "Elizabeth was the only surviving child of Henry VIII and his second wife, Anne Boleyn. When Elizabeth was two years old, her parents' marriage was annulled, her mother was executed, and Elizabeth was "
+    },
+    {
+      "text": "1553",
+      "type": "DATE",
+      "source_chunk": 1,
+      "source_text_preview": "Elizabeth was the only surviving child of Henry VIII and his second wife, Anne Boleyn. When Elizabeth was two years old, her parents' marriage was annulled, her mother was executed, and Elizabeth was "
+    },
+    {
+      "text": "Mary",
+      "type": "PERSON",
+      "source_chunk": 2,
+      "source_text_preview": "Upon Mary's death in 1558, Elizabeth succeeded to the throne and set out to rule by good counsel. She depended heavily on a group of trusted advisers led by William Cecil, whom she created Baron Burgh"
+    },
+    {
+      "text": "Elizabeth",
+      "type": "PERSON",
+      "source_chunk": 2,
+      "source_text_preview": "Upon Mary's death in 1558, Elizabeth succeeded to the throne and set out to rule by good counsel. She depended heavily on a group of trusted advisers led by William Cecil, whom she created Baron Burgh"
+    },
+    {
+      "text": "William Cecil",
+      "type": "PERSON",
+      "source_chunk": 2,
+      "source_text_preview": "Upon Mary's death in 1558, Elizabeth succeeded to the throne and set out to rule by good counsel. She depended heavily on a group of trusted advisers led by William Cecil, whom she created Baron Burgh"
+    },
+    {
+      "text": "Baron Burghley",
+      "type": "PERSON",
+      "source_chunk": 2,
+      "source_text_preview": "Upon Mary's death in 1558, Elizabeth succeeded to the throne and set out to rule by good counsel. She depended heavily on a group of trusted advisers led by William Cecil, whom she created Baron Burgh"
+    },
+    {
+      "text": "James VI of Scotland",
+      "type": "PERSON",
+      "source_chunk": 2,
+      "source_text_preview": "Upon Mary's death in 1558, Elizabeth succeeded to the throne and set out to rule by good counsel. She depended heavily on a group of trusted advisers led by William Cecil, whom she created Baron Burgh"
+    },
+    {
+      "text": "1558",
+      "type": "DATE",
+      "source_chunk": 2,
+      "source_text_preview": "Upon Mary's death in 1558, Elizabeth succeeded to the throne and set out to rule by good counsel. She depended heavily on a group of trusted advisers led by William Cecil, whom she created Baron Burgh"
+    },
+    {
+      "text": "English church",
+      "type": "ORGANIZATION",
+      "source_chunk": 2,
+      "source_text_preview": "Upon Mary's death in 1558, Elizabeth succeeded to the throne and set out to rule by good counsel. She depended heavily on a group of trusted advisers led by William Cecil, whom she created Baron Burgh"
+    },
+    {
+      "text": "Church of England",
+      "type": "ORGANIZATION",
+      "source_chunk": 2,
+      "source_text_preview": "Upon Mary's death in 1558, Elizabeth succeeded to the throne and set out to rule by good counsel. She depended heavily on a group of trusted advisers led by William Cecil, whom she created Baron Burgh"
+    },
+    {
+      "text": "Elizabethan Religious Settlement",
+      "type": "EVENT",
+      "source_chunk": 2,
+      "source_text_preview": "Upon Mary's death in 1558, Elizabeth succeeded to the throne and set out to rule by good counsel. She depended heavily on a group of trusted advisers led by William Cecil, whom she created Baron Burgh"
+    }
+  ],
+  "relationships": [
+    {
+      "source": "Elizabeth I",
+      "relation": "REIGNED_OVER",
+      "target": "England",
+      "source_chunk": 0,
+      "source_text_preview": "Elizabeth I (7 September 1533 \u2013 24 March 1603) was Queen of England and Ireland from 17 November 1558 until her death in 1603. She was the last and longest reigning monarch of the House of Tudor. Her "
+    },
+    {
+      "source": "Elizabeth I",
+      "relation": "REIGNED_OVER",
+      "target": "Ireland",
+      "source_chunk": 0,
+      "source_text_preview": "Elizabeth I (7 September 1533 \u2013 24 March 1603) was Queen of England and Ireland from 17 November 1558 until her death in 1603. She was the last and longest reigning monarch of the House of Tudor. Her "
+    },
+    {
+      "source": "Elizabeth I",
+      "relation": "BORN_ON",
+      "target": "7 September 1533",
+      "source_chunk": 0,
+      "source_text_preview": "Elizabeth I (7 September 1533 \u2013 24 March 1603) was Queen of England and Ireland from 17 November 1558 until her death in 1603. She was the last and longest reigning monarch of the House of Tudor. Her "
+    },
+    {
+      "source": "Elizabeth I",
+      "relation": "DIED_ON",
+      "target": "24 March 1603",
+      "source_chunk": 0,
+      "source_text_preview": "Elizabeth I (7 September 1533 \u2013 24 March 1603) was Queen of England and Ireland from 17 November 1558 until her death in 1603. She was the last and longest reigning monarch of the House of Tudor. Her "
+    },
+    {
+      "source": "Elizabeth I",
+      "relation": "REIGNED_FROM",
+      "target": "17 November 1558",
+      "source_chunk": 0,
+      "source_text_preview": "Elizabeth I (7 September 1533 \u2013 24 March 1603) was Queen of England and Ireland from 17 November 1558 until her death in 1603. She was the last and longest reigning monarch of the House of Tudor. Her "
+    },
+    {
+      "source": "Elizabeth I",
+      "relation": "DIED_IN",
+      "target": "1603",
+      "source_chunk": 0,
+      "source_text_preview": "Elizabeth I (7 September 1533 \u2013 24 March 1603) was Queen of England and Ireland from 17 November 1558 until her death in 1603. She was the last and longest reigning monarch of the House of Tudor. Her "
+    },
+    {
+      "source": "Elizabeth I",
+      "relation": "PART_OF",
+      "target": "House of Tudor",
+      "source_chunk": 0,
+      "source_text_preview": "Elizabeth I (7 September 1533 \u2013 24 March 1603) was Queen of England and Ireland from 17 November 1558 until her death in 1603. She was the last and longest reigning monarch of the House of Tudor. Her "
+    },
+    {
+      "source": "Elizabeth I",
+      "relation": "NAMED",
+      "target": "Elizabethan era",
+      "source_chunk": 0,
+      "source_text_preview": "Elizabeth I (7 September 1533 \u2013 24 March 1603) was Queen of England and Ireland from 17 November 1558 until her death in 1603. She was the last and longest reigning monarch of the House of Tudor. Her "
+    },
+    {
+      "source": "Elizabeth",
+      "relation": "CHILD_OF",
+      "target": "Henry VIII",
+      "source_chunk": 1,
+      "source_text_preview": "Elizabeth was the only surviving child of Henry VIII and his second wife, Anne Boleyn. When Elizabeth was two years old, her parents' marriage was annulled, her mother was executed, and Elizabeth was "
+    },
+    {
+      "source": "Elizabeth",
+      "relation": "CHILD_OF",
+      "target": "Anne Boleyn",
+      "source_chunk": 1,
+      "source_text_preview": "Elizabeth was the only surviving child of Henry VIII and his second wife, Anne Boleyn. When Elizabeth was two years old, her parents' marriage was annulled, her mother was executed, and Elizabeth was "
+    },
+    {
+      "source": "Edward VI",
+      "relation": "SIBLING_OF",
+      "target": "Elizabeth",
+      "source_chunk": 1,
+      "source_text_preview": "Elizabeth was the only surviving child of Henry VIII and his second wife, Anne Boleyn. When Elizabeth was two years old, her parents' marriage was annulled, her mother was executed, and Elizabeth was "
+    },
+    {
+      "source": "Mary",
+      "relation": "SIBLING_OF",
+      "target": "Elizabeth",
+      "source_chunk": 1,
+      "source_text_preview": "Elizabeth was the only surviving child of Henry VIII and his second wife, Anne Boleyn. When Elizabeth was two years old, her parents' marriage was annulled, her mother was executed, and Elizabeth was "
+    },
+    {
+      "source": "Lady Jane Grey",
+      "relation": "COUSIN_OF",
+      "target": "Edward VI",
+      "source_chunk": 1,
+      "source_text_preview": "Elizabeth was the only surviving child of Henry VIII and his second wife, Anne Boleyn. When Elizabeth was two years old, her parents' marriage was annulled, her mother was executed, and Elizabeth was "
+    },
+    {
+      "source": "Henry VIII",
+      "relation": "MARRIED_TO",
+      "target": "Anne Boleyn",
+      "source_chunk": 1,
+      "source_text_preview": "Elizabeth was the only surviving child of Henry VIII and his second wife, Anne Boleyn. When Elizabeth was two years old, her parents' marriage was annulled, her mother was executed, and Elizabeth was "
+    },
+    {
+      "source": "Elizabeth",
+      "relation": "SUCCEEDED",
+      "target": "Mary",
+      "source_chunk": 2,
+      "source_text_preview": "Upon Mary's death in 1558, Elizabeth succeeded to the throne and set out to rule by good counsel. She depended heavily on a group of trusted advisers led by William Cecil, whom she created Baron Burgh"
+    },
+    {
+      "source": "Elizabeth",
+      "relation": "APPOINTED",
+      "target": "William Cecil",
+      "source_chunk": 2,
+      "source_text_preview": "Upon Mary's death in 1558, Elizabeth succeeded to the throne and set out to rule by good counsel. She depended heavily on a group of trusted advisers led by William Cecil, whom she created Baron Burgh"
+    },
+    {
+      "source": "Elizabeth",
+      "relation": "ESTABLISHED",
+      "target": "English church",
+      "source_chunk": 2,
+      "source_text_preview": "Upon Mary's death in 1558, Elizabeth succeeded to the throne and set out to rule by good counsel. She depended heavily on a group of trusted advisers led by William Cecil, whom she created Baron Burgh"
+    },
+    {
+      "source": "English church",
+      "relation": "EVOLVED_INTO",
+      "target": "Church of England",
+      "source_chunk": 2,
+      "source_text_preview": "Upon Mary's death in 1558, Elizabeth succeeded to the throne and set out to rule by good counsel. She depended heavily on a group of trusted advisers led by William Cecil, whom she created Baron Burgh"
+    },
+    {
+      "source": "Elizabeth",
+      "relation": "SUCCEEDED_BY",
+      "target": "James VI of Scotland",
+      "source_chunk": 2,
+      "source_text_preview": "Upon Mary's death in 1558, Elizabeth succeeded to the throne and set out to rule by good counsel. She depended heavily on a group of trusted advisers led by William Cecil, whom she created Baron Burgh"
+    }
+  ]
+}

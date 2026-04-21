@@ -1,0 +1,42 @@
+# Python
+__pycache__/
+*.py[cod]
+*$py.class
+*.so
+.Python
+
+# Virtual Environment
+venv/
+env/
+ENV/
+.venv
+
+# IDE
+.vscode/
+.idea/
+*.swp
+*.swo
+
+# Streamlit
+.streamlit/secrets.toml
+
+# Environment variables
+.env
+*.env
+
+# Data files (optional - remove if you want to push data)
+# *.json
+# *.pkl
+# *.graphml
+
+# OS files
+.DS_Store
+Thumbs.db
+
+# Logs
+*.log
+streamlit.log
+
+# Cache
+.pytest_cache/
+.ruff_cache/

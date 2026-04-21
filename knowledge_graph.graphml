@@ -1,0 +1,180 @@
+<?xml version='1.0' encoding='utf-8'?>
+<graphml xmlns="http://graphml.graphdrawing.org/xmlns" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://graphml.graphdrawing.org/xmlns http://graphml.graphdrawing.org/xmlns/1.0/graphml.xsd"><key id="d3" for="edge" attr.name="relation" attr.type="string"/>
+<key id="d2" for="node" attr.name="preview" attr.type="string"/>
+<key id="d1" for="node" attr.name="source_chunk" attr.type="long"/>
+<key id="d0" for="node" attr.name="type" attr.type="string"/>
+<graph edgedefault="undirected"><node id="Elizabeth I">
+  <data key="d0">PERSON</data>
+  <data key="d1">0</data>
+  <data key="d2">Elizabeth I (7 September 1533 – 24 March 1603) was Queen of England and Ireland from 17 November 155</data>
+</node>
+<node id="England">
+  <data key="d0">PLACE</data>
+  <data key="d1">0</data>
+  <data key="d2">Elizabeth I (7 September 1533 – 24 March 1603) was Queen of England and Ireland from 17 November 155</data>
+</node>
+<node id="Ireland">
+  <data key="d0">PLACE</data>
+  <data key="d1">0</data>
+  <data key="d2">Elizabeth I (7 September 1533 – 24 March 1603) was Queen of England and Ireland from 17 November 155</data>
+</node>
+<node id="7 September 1533">
+  <data key="d0">DATE</data>
+  <data key="d1">0</data>
+  <data key="d2">Elizabeth I (7 September 1533 – 24 March 1603) was Queen of England and Ireland from 17 November 155</data>
+</node>
+<node id="24 March 1603">
+  <data key="d0">DATE</data>
+  <data key="d1">0</data>
+  <data key="d2">Elizabeth I (7 September 1533 – 24 March 1603) was Queen of England and Ireland from 17 November 155</data>
+</node>
+<node id="17 November 1558">
+  <data key="d0">DATE</data>
+  <data key="d1">0</data>
+  <data key="d2">Elizabeth I (7 September 1533 – 24 March 1603) was Queen of England and Ireland from 17 November 155</data>
+</node>
+<node id="1603">
+  <data key="d0">DATE</data>
+  <data key="d1">0</data>
+  <data key="d2">Elizabeth I (7 September 1533 – 24 March 1603) was Queen of England and Ireland from 17 November 155</data>
+</node>
+<node id="House of Tudor">
+  <data key="d0">ORGANIZATION</data>
+  <data key="d1">0</data>
+  <data key="d2">Elizabeth I (7 September 1533 – 24 March 1603) was Queen of England and Ireland from 17 November 155</data>
+</node>
+<node id="Elizabethan era">
+  <data key="d0">EVENT</data>
+  <data key="d1">0</data>
+  <data key="d2">Elizabeth I (7 September 1533 – 24 March 1603) was Queen of England and Ireland from 17 November 155</data>
+</node>
+<node id="Elizabeth">
+  <data key="d0">PERSON</data>
+  <data key="d1">2</data>
+  <data key="d2">Upon Mary's death in 1558, Elizabeth succeeded to the throne and set out to rule by good counsel. Sh</data>
+</node>
+<node id="Henry VIII">
+  <data key="d0">PERSON</data>
+  <data key="d1">1</data>
+  <data key="d2">Elizabeth was the only surviving child of Henry VIII and his second wife, Anne Boleyn. When Elizabet</data>
+</node>
+<node id="Anne Boleyn">
+  <data key="d0">PERSON</data>
+  <data key="d1">1</data>
+  <data key="d2">Elizabeth was the only surviving child of Henry VIII and his second wife, Anne Boleyn. When Elizabet</data>
+</node>
+<node id="Edward VI">
+  <data key="d0">PERSON</data>
+  <data key="d1">1</data>
+  <data key="d2">Elizabeth was the only surviving child of Henry VIII and his second wife, Anne Boleyn. When Elizabet</data>
+</node>
+<node id="Lady Jane Grey">
+  <data key="d0">PERSON</data>
+  <data key="d1">1</data>
+  <data key="d2">Elizabeth was the only surviving child of Henry VIII and his second wife, Anne Boleyn. When Elizabet</data>
+</node>
+<node id="Mary">
+  <data key="d0">PERSON</data>
+  <data key="d1">2</data>
+  <data key="d2">Upon Mary's death in 1558, Elizabeth succeeded to the throne and set out to rule by good counsel. Sh</data>
+</node>
+<node id="1547">
+  <data key="d0">DATE</data>
+  <data key="d1">1</data>
+  <data key="d2">Elizabeth was the only surviving child of Henry VIII and his second wife, Anne Boleyn. When Elizabet</data>
+</node>
+<node id="1553">
+  <data key="d0">DATE</data>
+  <data key="d1">1</data>
+  <data key="d2">Elizabeth was the only surviving child of Henry VIII and his second wife, Anne Boleyn. When Elizabet</data>
+</node>
+<node id="William Cecil">
+  <data key="d0">PERSON</data>
+  <data key="d1">2</data>
+  <data key="d2">Upon Mary's death in 1558, Elizabeth succeeded to the throne and set out to rule by good counsel. Sh</data>
+</node>
+<node id="Baron Burghley">
+  <data key="d0">PERSON</data>
+  <data key="d1">2</data>
+  <data key="d2">Upon Mary's death in 1558, Elizabeth succeeded to the throne and set out to rule by good counsel. Sh</data>
+</node>
+<node id="James VI of Scotland">
+  <data key="d0">PERSON</data>
+  <data key="d1">2</data>
+  <data key="d2">Upon Mary's death in 1558, Elizabeth succeeded to the throne and set out to rule by good counsel. Sh</data>
+</node>
+<node id="1558">
+  <data key="d0">DATE</data>
+  <data key="d1">2</data>
+  <data key="d2">Upon Mary's death in 1558, Elizabeth succeeded to the throne and set out to rule by good counsel. Sh</data>
+</node>
+<node id="English church">
+  <data key="d0">ORGANIZATION</data>
+  <data key="d1">2</data>
+  <data key="d2">Upon Mary's death in 1558, Elizabeth succeeded to the throne and set out to rule by good counsel. Sh</data>
+</node>
+<node id="Church of England">
+  <data key="d0">ORGANIZATION</data>
+  <data key="d1">2</data>
+  <data key="d2">Upon Mary's death in 1558, Elizabeth succeeded to the throne and set out to rule by good counsel. Sh</data>
+</node>
+<node id="Elizabethan Religious Settlement">
+  <data key="d0">EVENT</data>
+  <data key="d1">2</data>
+  <data key="d2">Upon Mary's death in 1558, Elizabeth succeeded to the throne and set out to rule by good counsel. Sh</data>
+</node>
+<edge source="Elizabeth I" target="England">
+  <data key="d3">REIGNED_OVER</data>
+</edge>
+<edge source="Elizabeth I" target="Ireland">
+  <data key="d3">REIGNED_OVER</data>
+</edge>
+<edge source="Elizabeth I" target="7 September 1533">
+  <data key="d3">BORN_ON</data>
+</edge>
+<edge source="Elizabeth I" target="24 March 1603">
+  <data key="d3">DIED_ON</data>
+</edge>
+<edge source="Elizabeth I" target="17 November 1558">
+  <data key="d3">REIGNED_FROM</data>
+</edge>
+<edge source="Elizabeth I" target="1603">
+  <data key="d3">DIED_IN</data>
+</edge>
+<edge source="Elizabeth I" target="House of Tudor">
+  <data key="d3">PART_OF</data>
+</edge>
+<edge source="Elizabeth I" target="Elizabethan era">
+  <data key="d3">NAMED</data>
+</edge>
+<edge source="Elizabeth" target="Henry VIII">
+  <data key="d3">CHILD_OF</data>
+</edge>
+<edge source="Elizabeth" target="Anne Boleyn">
+  <data key="d3">CHILD_OF</data>
+</edge>
+<edge source="Elizabeth" target="Edward VI">
+  <data key="d3">SIBLING_OF</data>
+</edge>
+<edge source="Elizabeth" target="Mary">
+  <data key="d3">SUCCEEDED</data>
+</edge>
+<edge source="Elizabeth" target="William Cecil">
+  <data key="d3">APPOINTED</data>
+</edge>
+<edge source="Elizabeth" target="English church">
+  <data key="d3">ESTABLISHED</data>
+</edge>
+<edge source="Elizabeth" target="James VI of Scotland">
+  <data key="d3">SUCCEEDED_BY</data>
+</edge>
+<edge source="Henry VIII" target="Anne Boleyn">
+  <data key="d3">MARRIED_TO</data>
+</edge>
+<edge source="Edward VI" target="Lady Jane Grey">
+  <data key="d3">COUSIN_OF</data>
+</edge>
+<edge source="English church" target="Church of England">
+  <data key="d3">EVOLVED_INTO</data>
+</edge>
+</graph></graphml>

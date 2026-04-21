@@ -1,0 +1,192 @@
+{
+  "nodes": [
+    {
+      "id": "Elizabeth I",
+      "type": "PERSON"
+    },
+    {
+      "id": "England",
+      "type": "PLACE"
+    },
+    {
+      "id": "Ireland",
+      "type": "PLACE"
+    },
+    {
+      "id": "7 September 1533",
+      "type": "DATE"
+    },
+    {
+      "id": "24 March 1603",
+      "type": "DATE"
+    },
+    {
+      "id": "17 November 1558",
+      "type": "DATE"
+    },
+    {
+      "id": "1603",
+      "type": "DATE"
+    },
+    {
+      "id": "House of Tudor",
+      "type": "ORGANIZATION"
+    },
+    {
+      "id": "Elizabethan era",
+      "type": "EVENT"
+    },
+    {
+      "id": "Elizabeth",
+      "type": "PERSON"
+    },
+    {
+      "id": "Henry VIII",
+      "type": "PERSON"
+    },
+    {
+      "id": "Anne Boleyn",
+      "type": "PERSON"
+    },
+    {
+      "id": "Edward VI",
+      "type": "PERSON"
+    },
+    {
+      "id": "Lady Jane Grey",
+      "type": "PERSON"
+    },
+    {
+      "id": "Mary",
+      "type": "PERSON"
+    },
+    {
+      "id": "1547",
+      "type": "DATE"
+    },
+    {
+      "id": "1553",
+      "type": "DATE"
+    },
+    {
+      "id": "William Cecil",
+      "type": "PERSON"
+    },
+    {
+      "id": "Baron Burghley",
+      "type": "PERSON"
+    },
+    {
+      "id": "James VI of Scotland",
+      "type": "PERSON"
+    },
+    {
+      "id": "1558",
+      "type": "DATE"
+    },
+    {
+      "id": "English church",
+      "type": "ORGANIZATION"
+    },
+    {
+      "id": "Church of England",
+      "type": "ORGANIZATION"
+    },
+    {
+      "id": "Elizabethan Religious Settlement",
+      "type": "EVENT"
+    }
+  ],
+  "edges": [
+    {
+      "source": "Elizabeth I",
+      "target": "England",
+      "relation": "REIGNED_OVER"
+    },
+    {
+      "source": "Elizabeth I",
+      "target": "Ireland",
+      "relation": "REIGNED_OVER"
+    },
+    {
+      "source": "Elizabeth I",
+      "target": "7 September 1533",
+      "relation": "BORN_ON"
+    },
+    {
+      "source": "Elizabeth I",
+      "target": "24 March 1603",
+      "relation": "DIED_ON"
+    },
+    {
+      "source": "Elizabeth I",
+      "target": "17 November 1558",
+      "relation": "REIGNED_FROM"
+    },
+    {
+      "source": "Elizabeth I",
+      "target": "1603",
+      "relation": "DIED_IN"
+    },
+    {
+      "source": "Elizabeth I",
+      "target": "House of Tudor",
+      "relation": "PART_OF"
+    },
+    {
+      "source": "Elizabeth I",
+      "target": "Elizabethan era",
+      "relation": "NAMED"
+    },
+    {
+      "source": "Elizabeth",
+      "target": "Henry VIII",
+      "relation": "CHILD_OF"
+    },
+    {
+      "source": "Elizabeth",
+      "target": "Anne Boleyn",
+      "relation": "CHILD_OF"
+    },
+    {
+      "source": "Elizabeth",
+      "target": "Edward VI",
+      "relation": "SIBLING_OF"
+    },
+    {
+      "source": "Elizabeth",
+      "target": "Mary",
+      "relation": "SUCCEEDED"
+    },
+    {
+      "source": "Elizabeth",
+      "target": "William Cecil",
+      "relation": "APPOINTED"
+    },
+    {
+      "source": "Elizabeth",
+      "target": "English church",
+      "relation": "ESTABLISHED"
+    },
+    {
+      "source": "Elizabeth",
+      "target": "James VI of Scotland",
+      "relation": "SUCCEEDED_BY"
+    },
+    {
+      "source": "Henry VIII",
+      "target": "Anne Boleyn",
+      "relation": "MARRIED_TO"
+    },
+    {
+      "source": "Edward VI",
+      "target": "Lady Jane Grey",
+      "relation": "COUSIN_OF"
+    },
+    {
+      "source": "English church",
+      "target": "Church of England",
+      "relation": "EVOLVED_INTO"
+    }
+  ]
+}

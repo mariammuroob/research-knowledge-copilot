@@ -1,0 +1,10 @@
+streamlit
+networkx
+matplotlib
+plotly
+pandas
+numpy
+langchain
+langchain-community
+wikipedia
+openai
